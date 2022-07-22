@@ -32,7 +32,7 @@ const Body = ({text}) => {
       <h3 className='text'>These low-profile sneakers are your perfect casual wears companion. Featuring a durable rubber outer sole, they will withstand everything the weather can offer</h3>  
       
 
-      <h2>{Add}<span>50%</span></h2>
+      <h2 className='percent'>{Add}<span>50%</span></h2>
       <h3 className='off'>$250.00</h3>
 
 

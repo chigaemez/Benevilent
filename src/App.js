@@ -2,6 +2,7 @@
 import './App.css';
 import Header from './component/Header'
 import Body from './component/Body';
+import "boostrap/dist/css/boostrap."
 import Profile from './component/Profile';
 import Images from './component/Images';
 import ProfilePic from './component/ProfilePic';
